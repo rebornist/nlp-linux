@@ -1,0 +1,17 @@
+/preprocessing/__pycache__
+/preprocessing/output
+/preprocessing/test
+/wordembedding/*
+*.text
+/output/*
+
+.vscode
+*.pyc
+/data
+/data/*
+.DS_Store
+._.DS_Store
+/models
+.checkpoints
+*.xlsx
+*.tsv
